@@ -1,7 +1,7 @@
 # Netflix-CLONE
 Recriando a interface do principal site de streaming mundial (NETFLIX) utilizando tecnologias como HTML5, CSS3 e JavaScript. 
 
-Nesse projeto foi ensinado: 
+Nesse projeto foi aprendido: 
 - Como estruturar um layout
 - Técnicas de CSS3 com containers e variáveis 
 - Como posicionar os elementos com Flexbox 
