@@ -8,4 +8,7 @@ Nesse projeto foi aprendido:
 - Como utilizar plugins JQuery a favor da sua aplicação.
 #
 
+Acesso ao Site: 
+<a href="https://lucasborgesdecarvalho.github.io/Netflix-CLONE/">Netflix - CLONE</a>
+
 ![image](https://user-images.githubusercontent.com/105558309/199764437-85dfa66a-7b5d-4db7-b2b8-afe7d6045218.png)
